@@ -25,4 +25,5 @@ streamlit run app.py
 
 ## Live link
 
-[Bangalore House Price Prediction ](https://your-streamlit-app-link.streamlit.app)
+[Bangalore House Price Prediction ](https://bangalorehousepriceprediction-jcbpgnarktwvlgofbn9d6u.streamlit.app)
+
