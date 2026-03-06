@@ -17,3 +17,12 @@ venv\Scripts\activate
 ```
 pip install -r requirement.txt
 ```
+
+### Running Streamlit 
+```
+streamlit run app.py
+```
+
+## Live link
+
+[Bangalore House Price Prediction ](https://your-streamlit-app-link.streamlit.app)
